@@ -1,0 +1,15 @@
+{
+  "name": "claude-native-preflight",
+  "version": "0.1.0",
+  "description": "Local multi-agent git preflight using Claude Code skills and subagents (security, quality, testing) with plan-first HITL fixes. No separate app or API wiring.",
+  "author": {
+    "name": "local-demo"
+  },
+  "keywords": [
+    "preflight",
+    "code-review",
+    "security",
+    "testing",
+    "local"
+  ]
+}
